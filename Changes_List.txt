@@ -1,0 +1,15 @@
+Change 1st page:
+1. Ahmedabd button : bind with  textbox
+2. Make my button close to ahmedbad
+3. div same as inspirock.com
+4. Contact us with two filed 1.Email 2. text go button
+
+Registration and signUp  as u wish.
+
+2. page category mobile view same as beyplay
+
+
+3. Bind data from ajax.
+ set limit of address line
+
+ 

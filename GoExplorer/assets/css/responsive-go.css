@@ -1,0 +1,129 @@
+﻿
+
+
+@media screen and (min-width: 320px) and (max-width: 479px) {
+    #quote {
+        margin-top: 180px;
+        margin-left: -1rem;
+    }
+
+    #category {
+        display: none;
+    }
+
+    #featured-category h4 a {
+        color: #0db4ff;
+    }
+
+    .fa-icon {
+        font-size: 18px !important;
+    }
+
+    .meta-details p {
+        font-size: 15px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    #quote {
+        margin-top: 80px;
+    }
+
+    #category {
+        display: none;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    #quote {
+        margin-top: 80px;
+    }
+
+    #featured-category {
+        display: none;
+    }
+
+    .fa-icon {
+        color: #0db4ff;
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    #quote {
+        margin-top: 80px;
+    }
+
+    #featured-category {
+        display: none;
+    }
+
+    .fa-icon {
+        color: #0db4ff;
+        font-size: 30px;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1440px) {
+    #quote {
+        margin-top: 80px;
+    }
+
+    .mask {
+        position: absolute;
+        bottom: 5rem;
+        right: 5px;
+        left: 15px;
+        -moz-transition: bottom 1s ease-in-out;
+        -o-transition: bottom 1s ease-in-out;
+        -webkit-transition: bottom 1s ease-in-out;
+        transition: bottom 1s ease-in-out;
+    }
+
+        .mask > p {
+            height: 200px;
+            line-height: 20px;
+            overflow: hidden;
+        }
+
+    .hero {
+        background-image: url(../../assets/images/hero-1.jpg);
+    }
+
+    #featured-category {
+        display: none;
+    }
+
+    .fa-icon {
+        color: rgb(255,215,0);
+        font-size: 30px;
+    }
+
+    .btn-success {
+        background-color: rgba(255,215,0,0.4);
+    }
+
+        .btn-success:hover {
+            background-color: rgba(255,215,0,0.8);
+        }
+
+    .category {
+        -moz-transform: scale(1);
+        -ms-transform: scale(1);
+        -o-transform: scale(1);
+        -webkit-transform: scale(1);
+        transform: scale(1);
+        -moz-transition: 1s linear;
+        -o-transition: 1s linear;
+        -webkit-transition: 1s linear;
+        transition: 1s linear;
+    }
+
+        .category:hover {
+            -moz-transform: scale(1.08);
+            -ms-transform: scale(1.08);
+            -o-transform: scale(1.08);
+            -webkit-transform: scale(1.08);
+            transform: scale(1.08);
+        }
+}

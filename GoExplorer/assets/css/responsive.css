@@ -1,0 +1,93 @@
+﻿
+
+
+@media screen and (min-width: 320px) and (max-width: 479px) {
+    .hero .intro-wrap {
+        bottom: 3rem;
+        padding-right: 17%;
+    }
+
+    .form-ctrl {
+        margin-bottom: 15px;
+        padding-right: 0;
+    }
+
+    .no-pad {
+        margin-right: -5%;
+    }
+
+    .quotes {
+        margin-left: 10px;
+    }
+}
+
+@media screen and (min-width: 480px) and (max-width: 767px) {
+    .small-hero.hero .container {
+        max-height: 445px;
+    }
+
+    .hero .intro-wrap {
+        padding-right: 13%;
+    }
+
+    .quotes {
+        margin-left: 6%;
+    }
+
+    .hero .container {
+        padding-top: 43%;
+        height: 640px;
+    }
+}
+
+@media screen and (min-width: 768px) and (max-width: 991px) {
+    .hero .intro-wrap {
+        bottom: 14rem;
+        padding-right: 17%;
+    }
+
+    .form-ctrl {
+        margin-bottom: 50px;
+        padding-left: 0;
+    }
+
+    .no-pad {
+        margin-left: 0;
+        margin-right: -30px;
+    }
+
+    .quotes {
+        margin-left: 9rem;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {
+    .hero .intro-wrap {
+        bottom: 20rem;
+        padding-right: 13%;
+    }
+
+    .form-ctrl {
+        margin-bottom: 15px;
+        padding-left: 10px;
+    }
+
+    .quotes {
+        margin-left: 1rem;
+    }
+
+    .no-pad {
+        margin-left: 0;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1300px) {
+    .hero .intro-wrap {
+        bottom: 22rem;
+        padding-right: 13%;
+    }
+
+    .form-ctrl {
+        padding-left: 0;
+    }
+}

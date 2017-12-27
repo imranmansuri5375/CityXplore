@@ -1,0 +1,18 @@
+c:\users\chint\documents\visual studio 2013\Projects\GoExplorer\GoExplorer\bin\GoExplorer.dll.config
+c:\users\chint\documents\visual studio 2013\Projects\GoExplorer\GoExplorer\bin\GoExplorer.dll
+c:\users\chint\documents\visual studio 2013\Projects\GoExplorer\GoExplorer\bin\GoExplorer.pdb
+c:\users\chint\documents\visual studio 2013\Projects\GoExplorer\GoExplorer\obj\Debug\GoExplorer.dll
+c:\users\chint\documents\visual studio 2013\Projects\GoExplorer\GoExplorer\obj\Debug\GoExplorer.pdb
+C:\Users\chint\Documents\Visual Studio 2013\Projects\GoExplorer\GoExplorer\obj\Debug\GoExplorer.csprojResolveAssemblyReference.cache
+E:\work\Repos\GoExplorer\GoExplorer\bin\GoExplorer.dll.config
+E:\work\Repos\GoExplorer\GoExplorer\bin\GoExplorer.dll
+E:\work\Repos\GoExplorer\GoExplorer\bin\GoExplorer.pdb
+E:\work\Repos\GoExplorer\GoExplorer\obj\Debug\GoExplorer.dll
+E:\work\Repos\GoExplorer\GoExplorer\obj\Debug\GoExplorer.pdb
+E:\work\Repos\GoExplorer\GoExplorer\obj\Debug\GoExplorer.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\MakeMyDay\GoExplorer-20171224T075828Z-001\GoExplorer\GoExplorer\bin\GoExplorer.dll.config
+C:\inetpub\wwwroot\MakeMyDay\GoExplorer-20171224T075828Z-001\GoExplorer\GoExplorer\bin\GoExplorer.dll
+C:\inetpub\wwwroot\MakeMyDay\GoExplorer-20171224T075828Z-001\GoExplorer\GoExplorer\bin\GoExplorer.pdb
+C:\inetpub\wwwroot\MakeMyDay\GoExplorer-20171224T075828Z-001\GoExplorer\GoExplorer\obj\Debug\GoExplorer.dll
+C:\inetpub\wwwroot\MakeMyDay\GoExplorer-20171224T075828Z-001\GoExplorer\GoExplorer\obj\Debug\GoExplorer.pdb
+C:\inetpub\wwwroot\MakeMyDay\GoExplorer-20171224T075828Z-001\GoExplorer\GoExplorer\obj\Debug\GoExplorer.csprojResolveAssemblyReference.cache
